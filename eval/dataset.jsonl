@@ -1,0 +1,18 @@
+{"question": "Quelles sont les deux phases de la photosynthèse ?", "expected_sources": ["photosynthese.txt"], "reference_answer": "La phase photochimique (phase claire) dans les thylakoïdes et la phase chimique (cycle de Calvin) dans le stroma."}
+{"question": "Quel gaz est produit par la photosynthèse ?", "expected_sources": ["photosynthese.txt"], "reference_answer": "Du dioxygène (O2)."}
+{"question": "Où se déroule la photosynthèse dans la cellule ?", "expected_sources": ["photosynthese.txt"], "reference_answer": "Dans les chloroplastes, grâce à la chlorophylle."}
+{"question": "Quel processus consomme du glucose et du dioxygène pour produire de l'énergie ?", "expected_sources": ["respiration_cellulaire.txt"], "reference_answer": "La respiration cellulaire."}
+{"question": "Dans quel organite se déroule principalement la respiration cellulaire ?", "expected_sources": ["respiration_cellulaire.txt"], "reference_answer": "Dans les mitochondries."}
+{"question": "Quelles sont les trois étapes de la respiration cellulaire ?", "expected_sources": ["respiration_cellulaire.txt"], "reference_answer": "La glycolyse, le cycle de Krebs et la chaîne respiratoire."}
+{"question": "Quelles sont les étapes du cycle de l'eau ?", "expected_sources": ["cycle_eau.txt"], "reference_answer": "Évaporation, condensation, précipitations et ruissellement."}
+{"question": "Qu'est-ce que l'évapotranspiration ?", "expected_sources": ["cycle_eau.txt"], "reference_answer": "La transpiration des plantes qui contribue à l'humidité de l'atmosphère."}
+{"question": "Que dit le théorème de Pythagore ?", "expected_sources": ["pythagore.txt"], "reference_answer": "Dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés (a² + b² = c²)."}
+{"question": "Comment calculer la longueur de l'hypoténuse ?", "expected_sources": ["pythagore.txt"], "reference_answer": "En prenant la racine carrée de la somme des carrés des deux côtés : c = racine(a² + b²)."}
+{"question": "Qu'est-ce que le coefficient directeur d'une fonction affine ?", "expected_sources": ["fonctions_affines.txt"], "reference_answer": "Le nombre a dans f(x) = ax + b ; c'est la pente de la droite."}
+{"question": "Que représente l'ordonnée à l'origine d'une fonction affine ?", "expected_sources": ["fonctions_affines.txt"], "reference_answer": "La valeur f(0), le point où la droite coupe l'axe des ordonnées."}
+{"question": "Comment additionner deux fractions ?", "expected_sources": ["fractions.txt"], "reference_answer": "Les mettre au même dénominateur, puis additionner les numérateurs."}
+{"question": "Comment rendre une fraction irréductible ?", "expected_sources": ["fractions.txt"], "reference_answer": "En divisant le numérateur et le dénominateur par leur plus grand commun diviseur."}
+{"question": "En quelle année a commencé la Révolution française ?", "expected_sources": ["revolution_francaise.txt"], "reference_answer": "En 1789."}
+{"question": "Qu'est-ce que la prise de la Bastille ?", "expected_sources": ["revolution_francaise.txt"], "reference_answer": "Le 14 juillet 1789, le peuple de Paris s'empare de la Bastille, symbole du pouvoir royal."}
+{"question": "Quand a eu lieu le débarquement de Normandie ?", "expected_sources": ["seconde_guerre_mondiale.txt"], "reference_answer": "Le 6 juin 1944."}
+{"question": "Quelles puissances formaient l'Axe pendant la Seconde Guerre mondiale ?", "expected_sources": ["seconde_guerre_mondiale.txt"], "reference_answer": "L'Allemagne nazie, l'Italie et le Japon."}

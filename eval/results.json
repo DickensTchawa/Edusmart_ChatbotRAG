@@ -1,0 +1,45 @@
+{
+  "n_questions": 18,
+  "results": {
+    "dense": {
+      "1": {
+        "hit@k": 1.0,
+        "recall@k": 1.0,
+        "precision@k": 1.0,
+        "mrr": 1.0
+      },
+      "3": {
+        "hit@k": 1.0,
+        "recall@k": 1.0,
+        "precision@k": 0.6759259259259259,
+        "mrr": 1.0
+      },
+      "5": {
+        "hit@k": 1.0,
+        "recall@k": 1.0,
+        "precision@k": 0.37037037037037035,
+        "mrr": 1.0
+      }
+    },
+    "hybrid": {
+      "1": {
+        "hit@k": 1.0,
+        "recall@k": 1.0,
+        "precision@k": 1.0,
+        "mrr": 1.0
+      },
+      "3": {
+        "hit@k": 1.0,
+        "recall@k": 1.0,
+        "precision@k": 0.5092592592592592,
+        "mrr": 1.0
+      },
+      "5": {
+        "hit@k": 1.0,
+        "recall@k": 1.0,
+        "precision@k": 0.3796296296296296,
+        "mrr": 1.0
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+La respiration cellulaire
+
+La respiration cellulaire est le processus par lequel les cellules produisent de
+l'énergie (ATP) à partir du glucose et du dioxygène. Elle se déroule
+principalement dans les mitochondries.
+
+Bilan : C6H12O6 (glucose) + 6 O2 donnent 6 CO2 + 6 H2O + énergie (ATP).
+
+Contrairement à la photosynthèse qui produit du glucose et du dioxygène, la
+respiration cellulaire consomme le glucose et le dioxygène pour libérer de
+l'énergie. Les deux processus sont complémentaires.
+
+La respiration comporte trois étapes : la glycolyse (dans le cytoplasme), le
+cycle de Krebs et la chaîne respiratoire (dans la mitochondrie). La majeure
+partie de l'ATP est produite lors de la chaîne respiratoire.

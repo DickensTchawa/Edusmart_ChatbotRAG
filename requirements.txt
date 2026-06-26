@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+faiss-cpu
+sentence-transformers
+numpy
+rank-bm25
+huggingface_hub>=0.24
+pypdf
+python-dotenv
+python-multipart
+pydantic

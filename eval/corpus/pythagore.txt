@@ -1,0 +1,16 @@
+Le théorème de Pythagore
+
+Le théorème de Pythagore concerne les triangles rectangles. Il énonce que, dans
+un triangle rectangle, le carré de la longueur de l'hypoténuse est égal à la
+somme des carrés des longueurs des deux autres côtés.
+
+Formule : si c est l'hypoténuse et a, b les deux autres côtés, alors
+a² + b² = c².
+
+Pour calculer l'hypoténuse, on additionne les carrés des deux côtés de l'angle
+droit puis on prend la racine carrée du résultat : c = racine(a² + b²).
+
+Exemple : pour a = 3 et b = 4, on obtient c = racine(9 + 16) = racine(25) = 5.
+
+La réciproque permet de vérifier qu'un triangle est rectangle : si a² + b² = c²,
+alors le triangle est rectangle.

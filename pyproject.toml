@@ -1,0 +1,35 @@
+[project]
+name = "rag-pedagogique"
+version = "1.0.0"
+description = "Chatbot RAG pédagogique fondé sur un corpus de documents de cours."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+# Permet aux tests d'importer config/main/services/controllers depuis app/,
+# et le module de métriques depuis eval/.
+pythonpath = ["app", "eval"]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = [
+    # Avertissement interne Starlette/httpx sur le TestClient — sans effet sur nos tests.
+    "ignore:Using `httpx`.*:Warning",
+]
+
+[tool.black]
+line-length = 100
+target-version = ["py311", "py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+# E/F : erreurs et pyflakes ; I : tri des imports ; UP : modernisation ; B : bugbear.
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]  # longueur de ligne gérée par black
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true   # faiss / sentence_transformers n'ont pas de stubs
+warn_unused_ignores = true
+no_implicit_optional = true

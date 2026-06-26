@@ -1,0 +1,15 @@
+Les fractions
+
+Une fraction représente une partie d'un tout. Elle s'écrit avec un numérateur
+(en haut) et un dénominateur (en bas), par exemple 3/4.
+
+Pour additionner deux fractions, il faut d'abord les mettre au même
+dénominateur (dénominateur commun), puis additionner les numérateurs.
+
+Pour multiplier deux fractions, on multiplie les numérateurs entre eux et les
+dénominateurs entre eux. Pour diviser par une fraction, on multiplie par son
+inverse.
+
+Une fraction est dite irréductible lorsque le numérateur et le dénominateur
+n'ont pas de diviseur commun autre que 1. On simplifie une fraction en divisant
+le numérateur et le dénominateur par leur plus grand commun diviseur.

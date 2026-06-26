@@ -1,0 +1,33 @@
+La photosynthèse — fiche de cours
+
+Définition
+La photosynthèse est le processus par lequel les plantes, les algues et certaines
+bactéries transforment l'énergie lumineuse en énergie chimique. Elle se déroule
+principalement dans les feuilles, au sein d'organites appelés chloroplastes, qui
+contiennent un pigment vert : la chlorophylle.
+
+Équation globale
+Le bilan de la photosynthèse peut s'écrire ainsi :
+6 CO2 + 6 H2O + énergie lumineuse -> C6H12O6 (glucose) + 6 O2
+Autrement dit, la plante consomme du dioxyde de carbone et de l'eau, et produit
+du glucose (un sucre) et du dioxygène.
+
+Les deux phases
+1. La phase photochimique (ou "phase claire") se déroule dans les thylakoïdes.
+   La lumière est captée par la chlorophylle ; l'eau est décomposée (photolyse),
+   ce qui libère du dioxygène. Cette phase produit de l'ATP et du NADPH.
+2. La phase chimique (ou "cycle de Calvin", phase sombre) se déroule dans le
+   stroma. Elle utilise l'ATP et le NADPH pour fixer le CO2 et fabriquer du glucose.
+   Elle ne nécessite pas directement de lumière.
+
+Facteurs influençant la photosynthèse
+- L'intensité lumineuse : plus il y a de lumière, plus la photosynthèse est
+  rapide, jusqu'à un seuil de saturation.
+- La concentration en CO2 : une augmentation du CO2 accélère la production.
+- La température : chaque espèce a une température optimale ; au-delà, les
+  enzymes se dégradent et le processus ralentit.
+
+Importance
+La photosynthèse est à la base de presque toutes les chaînes alimentaires et
+produit le dioxygène que respirent les êtres vivants. Elle joue aussi un rôle
+majeur dans la régulation du dioxyde de carbone atmosphérique.

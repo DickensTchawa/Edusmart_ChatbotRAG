@@ -1,0 +1,9 @@
+# Dépendances de développement / qualité / tests
+-r requirements.txt
+
+pytest
+httpx            # requis par fastapi.testclient
+ruff
+black
+mypy
+pre-commit

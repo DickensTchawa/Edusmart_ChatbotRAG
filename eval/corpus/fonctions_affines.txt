@@ -1,0 +1,15 @@
+Les fonctions affines
+
+Une fonction affine est une fonction de la forme f(x) = a x + b, où a et b sont
+des nombres réels. Sa représentation graphique est une droite.
+
+Le nombre a est le coefficient directeur (la pente) : il indique l'inclinaison
+de la droite. Le nombre b est l'ordonnée à l'origine : c'est la valeur de f(0),
+le point où la droite coupe l'axe des ordonnées.
+
+Si a est positif, la fonction est croissante ; si a est négatif, elle est
+décroissante. Lorsque b = 0, la fonction est dite linéaire et la droite passe
+par l'origine.
+
+Pour calculer le coefficient directeur entre deux points, on divise la
+différence des ordonnées par la différence des abscisses.

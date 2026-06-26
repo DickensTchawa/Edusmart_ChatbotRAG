@@ -1,0 +1,17 @@
+services:
+  chatbot:
+    build: .
+    ports:
+      - "8002:8002"
+    env_file:
+      - app/.env          # HUGGINGFACEHUB_API_TOKEN, LLM_MODEL, LLM_PROVIDER...
+    environment:
+      - DOCS_DIR=/data/docs
+      - INDEX_DIR=/data/index_store
+    volumes:
+      - ./docs:/data/docs            # documents partagés avec l'hôte
+      - rag_index:/data/index_store  # persistance de l'index entre redémarrages
+    restart: unless-stopped
+
+volumes:
+  rag_index:
